@@ -1,0 +1,34 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel":0,
+    "workbench.colorTheme": "Default Dark+",
+    "git.ignoreMissingGitWarning": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "cls"],
+    "python.pythonPath": "C:\\Users\\21186\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "java.jdt.ls.java.home": "D:\\Path\\jdk-19",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "html.format.wrapLineLength": 120,
+    "css.format.wrapLineLength": 120,
+    "json.format.enable": true,
+    "json.format.prettierOptions": {
+        "printWidth": 120,
+        "tabWidth": 4,
+        "useTabs": false,
+        "semi": true,
+        "singleQuote": true,
+        "trailingComma": "all",
+        "bracketSpacing": true,
+        "arrowParens": "avoid"
+    },
+    "files.associations": {
+        "克鲁斯卡尔算法.c": "cpp"
+    }, 
+}
